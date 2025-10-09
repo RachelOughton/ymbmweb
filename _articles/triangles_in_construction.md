@@ -3,6 +3,7 @@ title: "Triangles in Construction"
 topics: 
   - triangles
 topic_overview: true
+spotlight: true
 related: 
   - building
 author: Molly Ireland

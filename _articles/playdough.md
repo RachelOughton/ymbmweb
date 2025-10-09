@@ -6,6 +6,7 @@ topics:
   - subtraction
   - multiplication
 topic_overview: true
+spotlight: true
 related: 
   - mass
   - order

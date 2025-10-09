@@ -11,6 +11,7 @@ related:
  - patterns
 nurseries:    
 author: Molly Ireland
+spotlight: true
 sub_date: 2025-08-07
 header:
   teaser: /assets/img/tesselating_in_a_circle.jpeg
