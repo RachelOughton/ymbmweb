@@ -5,6 +5,7 @@ topics:
   - experimenting
   - nature
 topic_overview: true
+spotlight: true
 related: 
   - graphs
 author: Molly Ireland

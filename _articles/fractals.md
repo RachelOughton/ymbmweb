@@ -7,6 +7,7 @@ topics:
   - nature
   - food 
 topic_overview: true
+spotlight: true
 related: 
   -     
 nurseries: Group 5 

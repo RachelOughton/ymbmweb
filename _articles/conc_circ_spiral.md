@@ -7,6 +7,7 @@ topics:
   - equivalence
   - topology
 topic_overview: true
+spotlight: true
 related: 
   - same and different    
 nurseries: group 5

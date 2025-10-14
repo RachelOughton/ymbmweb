@@ -13,13 +13,13 @@ toc_sticky: true
 
 The ramp play booklet is a guide for practitioners, all about exploring maths through ramp play. It contains lots of examples of children's play, reflections from practitioners, insight from mathematicians and practical things like new words to introduce and advice about getting started. 
 
-[Download the booklet as a PDF](https://forms.office.com/e/ueAusYef12){:target="_blank"} - free
+[Download the booklet as a PDF](https://forms.office.com/e/ueAusYef12){:target="_blank"} – free
 
 [Order printed copies (UK only)](https://forms.office.com/Pages/ResponsePage.aspx?id=i9hQcmhLKUW-RNWaLYpvlPDEhkwUqaNMixPXeJmcrLVURVpTWUYxUk44SVdUUkUwQTlKRDJJRzRLWC4u){:target="_blank"} - at the cost of postage and packaging.
 
-{% include figure image_path="/assets/img/ramps_cover.png" alt="The front cover of the Ramp Play booklet" title="Fill out a short form and download the booklet as a PDF" url = "https://forms.office.com/e/ueAusYef12"%}
+We can send large numbers of printed copies (e.g. for a local authority, educational trust or stronger practice hub) for free – please email us at **hello@youngmindsbigmaths.co.uk**.
 
-If you have any comments or questions, or if you'd like a large number of printed copies (for example to distribute within a local authority or an educational trust), please email us at **hello@youngmindsbigmaths.co.uk**.
+{% include figure image_path="/assets/img/ramps_cover.png" alt="The front cover of the Ramp Play booklet" title="Fill out a short form and download the booklet as a PDF" url = "https://forms.office.com/e/ueAusYef12"%}
 
 Do you already have the Ramp Play booklet? We'd really value your feedback:
 
