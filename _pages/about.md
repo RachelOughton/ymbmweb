@@ -11,7 +11,7 @@ toc_icon: user-edit
 toc_sticky: true
 ---
 
-This webpage came about because of a project involving some mathematicians from Durham University and some early years educators from Houghton Community Nursery School, which came to be known as 'Young Minds Big Maths'.
+This webpage came about because of a project involving some mathematicians from [Durham University](https://www.durham.ac.uk/departments/academic/mathematical-sciences/){:target="_blank"} and some early years educators from [Houghton Community Nursery School](https://houghtonnurseryschool.org.uk/){:target="_blank"}, which came to be known as 'Young Minds Big Maths'.
 
 {% include figure image_path="/assets/img/ymbm_group.jpeg" alt="A group of university mathematicians and early years educators outside the Mathematical Sciences building in Durham." title = "Some of the YMBM group" %}
 
@@ -39,20 +39,29 @@ We have tried to keep the articles very specific to one idea or connection each,
 
 ## Recent news
 
+We'll be speaking at [BCME 10](https://www.bcme.co.uk/){:target="_blank"} in October.
+
+We've recently been featured on
+
+  - the [Early Childhood Maths Group   blog](https://earlymaths.org/ramp-play/){:target="_blank"}
+  - the [DREME blog](https://dreme.stanford.edu/news/exploring-math-through-ramp-play/){:target="_blank"}
+  - the [Voice of Early Childhood podcast](https://thevoiceofearlychildhood.com/exploring-maths-through-ramp-play-with-young-minds-big-maths/){:target="_blank"} 
+  - the [Cambridge Mathematics 'Staffroom catch-up' podcast](https://www.cambridgemaths.org/for-teachers-and-practitioners/staffroom-catchup/view/episode-5-becoming-maths-people/){:target="_blank"}
+  - the ['maths resources' section](https://birthto5matters.org.uk/mathematics-resources/){:target="_blank"} of Birth to 5 matters
+
 ### Ramp play booklet
 
-We've recently released a booklet for practitioners all about exploring maths through ramp play. You can access it [here]({{site.baseulr}}/ramp_play/). We're also excited to be featured on the [Early Childhood Maths Group blog](https://earlymaths.org/ramp-play/){:target="_blank"}.
+In October 2025 we released a booklet for practitioners all about exploring maths through ramp play, funded by our IAA grant. You can access it [here]({{site.baseulr}}/ramp_play/). 
 
 ### IAA funding
 
-Earlier this year we were successful in applying for an ESRC Impact Accelerator grant, with an aim to developing this website and writing a book (aimed at EY educators) all about exploring maths with young children through ramp play. The book will be freely available later in the year.
-
-### Education Durham collaboration
-
-We're delighted that Education Durham (Durham County Council) are now on board as collaborators. As well as giving us some much needed organisational support, this collaboration has also given us reach to many more local early years settings. We're excited to have 10 new participating settings starting in September 2025.
+in 2025 we were successful in applying for an ESRC Impact Accelerator grant, with an aim to developing this website and writing a book (aimed at EY educators) all about exploring maths with young children through ramp play. The book will be freely available later in the year.
 
 
 ## Publications
+
+Rachel Oughton, Sophy Darwin, Kathryn Nichols & Sarah Dixon-Jones (2025) Young Minds Big Maths: a collaboration of
+experts for child-led early years maths *TACTYC conference 2025* [https://drive.google.com/drive/folders/1O7nVtFVd9aOI51QSVzCQsNq_iAQFM41r](https://drive.google.com/drive/folders/1O7nVtFVd9aOI51QSVzCQsNq_iAQFM41r)
 
 Rachel Oughton, Kathryn Nichols, David S Bolden, Sarah Dixon-Jones, Sam Fearn, Sophia Darwin, Mrita Mistry, Norbert Peyerimhoff & Adam Townsend (2024) Developing ‘deep mathematical thinking’ in geometry with 3- and 4-year-olds: a collaborative study between early years teachers and university-based mathematicians, *Mathematical Thinking and Learning, 26(3)* [DOI: 10.1080/10986065.2022.2119497](https://doi.org/10.1080/10986065.2022.2119497)
 
